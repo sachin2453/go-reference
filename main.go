@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 )
-
+// demo app 
 func main() {
 	fmt.Println("Welcome to Go conference")
 	message := "Go lang" // its a var
